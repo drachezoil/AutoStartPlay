@@ -1,6 +1,6 @@
 # AutoStartPlay
 
-Little app that start at boot and launch a video
+Little Android app that start at boot and launch a video
 
 Need to allow 'Draw Over Other Apps' or 'Display Over Other apps' under sttings-> app -> special permissions
 
